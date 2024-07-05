@@ -23,12 +23,12 @@ Este é o meu primeiro aplicativo mobile desenvolvido utilizando React Native e 
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/anthonymnf/ExpenseManager-Mobile.git
+    git clone https://github.com/anthonymnf/mobile-Gestor-De-Despesas-React-Native.git
     ```
 
 2. Navegue até o diretório do projeto:
     ```bash
-    cd ExpenseManager-Mobile
+    cd mobile-Gestor-De-Despesas-React-Native
     ```
 
 3. Instale as dependências:
